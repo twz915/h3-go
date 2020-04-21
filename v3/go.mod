@@ -1,4 +1,4 @@
-module github.com/uber/h3-go/v3
+module github.com/keisar/h3-go/v3
 
 go 1.13
 
